@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete_all">Delete All</string>
+    <string name="etItemName">Item Name</string>
+    <string name="tvCategory">Choose a Category</string>
+    <string name="etItemDescription">Item Description</string>
+    <string name="etEstimatedPrice">Estimated Price</string>
+    <string name="cbAlreadyPurchased">Already Purchased?</string>
+    <string name="ttInsertItem">Insert New Item</string>
+    <string name="runtimeException">The Activity does not implement the ItemHandlerInterface</string>
+    <string name="newItemTitle">New List Item</string>
+    <string name="editItemTitle">Edit Item</string>
+    <string name="btnOk">OK</string>
+    <string name="fieldCannotBeEmpty">This field can not be empty</string>
+    <string name="tutAddItem">Add Item</string>
+    <string name="tutText">Click here to add an item to the list</string>
+    <string name="itemTitleHolder">Item</string>
+    <string name="txtPrice">Price:</string>
+    <string name="txtDescription">Description:</string>
+    <string name="txtDescriptionHolder">Description</string>
+    <string name="txtPriceHolder">$1000000000</string>
+    <string name="txtQuantity">Quantity:</string>
+    <string name="btnEdit">EDIT</string>
+    <string name="cbAlreadyPurchasedTxt">Already purchased</string>
+    <string name="splashTitle">Marty\'s Shopping List Supreme (Version 2000.0)</string>
+    <string-array name="categories_array">
+        <item>Food</item>
+        <item>Clothing</item>
+        <item>Staples</item>
+        <item>Electronics</item>
+    </string-array>
+</resources>

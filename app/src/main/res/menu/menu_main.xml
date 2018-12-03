@@ -1,0 +1,12 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.marty.shoppinglist.MainActivity">
+    <item
+        android:id="@+id/deleteAll"
+        android:title="@string/delete_all"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        tools:visible="true" />
+</menu>
